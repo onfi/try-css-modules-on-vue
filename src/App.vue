@@ -9,13 +9,11 @@
   </header>
 
   <main class="main">
-    CSS modulesを使ってみよう！
-    <pre>
-    </pre>
+    <h1>CSS modulesを使ってみよう！</h1>
   </main>
 </template>
 
 <style>
-/* @import './assets/app.module.css'; */
+/* @import './assets/app.module.css';
 /* @import './assets/test.module.css'; */
 </style>
