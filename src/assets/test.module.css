@@ -5,3 +5,7 @@
 .main {
   background-color: red;
 }
+
+.main h1 {
+  color: white;
+}
