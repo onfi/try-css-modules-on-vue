@@ -1,0 +1,12 @@
+version: "3.6"
+services:
+  node:
+    image: node:20.3.0
+    tty: true
+    user: node
+    volumes:
+      - ./:/var/work
+    working_dir: /var/work
+    command: bash -c "npm install && npm run dev"
+    ports:
+      - 5173:5173
