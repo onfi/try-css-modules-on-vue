@@ -14,6 +14,6 @@
 </template>
 
 <style>
-/* @import './assets/app.module.css';
+/* @import './assets/app.module.css'; */
 /* @import './assets/test.module.css'; */
 </style>
